@@ -18,7 +18,7 @@ python main.py
 
 # Screenshots:
 ![Organize 1](screenshots/Organize%201.png)
-* Hackerbot crypto:
+
 ![Organize 2](./Screenshots/Organize%202.png)
 
 Note:
