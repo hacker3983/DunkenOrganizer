@@ -19,7 +19,7 @@ python main.py
 # Screenshots:
 ![Organize 1](screenshots/Organize%201.png)
 
-![Organize 2](./Screenshots/Organize%202.png)
+![Organize 2](screenshots/Organize%202.png)
 
 Note:
 If you want to organize other types files into different categories you can modify the categories.json file to include the category name and list of extensions.
